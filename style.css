@@ -1,0 +1,21 @@
+.stApp{
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: medium;
+}
+div.stButton > button{
+    background-color: #0099ff;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
